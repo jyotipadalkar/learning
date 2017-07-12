@@ -1,0 +1,154 @@
+.wrapper {
+	background: url('img/background.jpg');
+}
+.art-gallery h2 {
+	display: inline;
+}
+
+.col-left {
+	background: url('img/img1.jpg')no-repeat;
+}
+
+.art-gallery {
+	padding-top: 550px;
+}
+
+ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+.gallery li {
+	display: inline;
+	padding: 0;
+	margin: 0;
+}
+
+.gallery li a {
+	float: left;
+	display: block;
+	width: 76px;
+	height: 76px;
+	border: 1px solid #000000;
+	margin: 0 20px 20px 0;
+}
+
+.button a {
+	clear: both;
+	display: block;
+	width: 100px;
+	height: 42px;
+	padding-top: 10px;
+	background: url('img/img3.jpg') no-repeat;
+	color: #000;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	letter-spacing: 1px;
+}
+
+.menu {
+	clear: both;
+	width: 475px;
+	height: 65px;
+	margin-top: 25px;
+	margin-bottom: 50px;
+	background: url('img/img4.png') no-repeat;
+}
+
+.menu ul {
+	overflow: hidden;
+	padding: 18px 0 0 0;
+	margin: 0px;
+	list-style
+}
+.menu ul li {
+	padding: 0px;
+	margin: 0px;
+	display: inline;
+}
+.menu ul li a {
+	float: left;
+	display: block;
+	padding: 3px 20px 5px 20px;
+	font-size: 18px;
+	text-align: center;
+	font-weight: normal;
+	text-decoration: none;
+	color: #2e1313;
+	background: url(images/templatemo_menu_right.jpg) right top no-repeat;
+	border-right: 1px solid #2e1313;
+	outline: none;
+}
+
+.title {
+	width: 475px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.title h1 {
+	margin: 0px;
+	padding: 2px 0;
+	font-size: 30px;
+	font-weight: bold;
+}
+.title h1 a span {
+	display: block;
+	font-size: 18px;
+	margin-left: 5px;
+	color: #37322b;
+	font-weight: bold;
+}
+
+.section1 h2 {
+	display: inline;margin: 0 0 10px 0;
+
+	font-size: 26px;
+	font-weight: normal;
+	height: 30px;
+	color: #2e1313;
+}
+
+.section2 h2 {
+	display: inline;
+	margin: 0 0 10px 0;
+	font-size: 26px;
+	font-weight: normal;
+	height: 30px;
+	color: #2e1313;
+}
+
+.fl_image{
+	float: left;
+	margin-right: 15px;
+}
+.fl_image {
+    float: left;
+    margin-right: 15px;
+}
+
+.image_wrapper {
+    border: 1px solid #000;
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+.button_01 a {
+    clear: both;
+    display: block;
+    width: 100px;
+    height: 42px;
+    padding-top: 10px;
+    background: url(img/img3.jpg) no-repeat;
+    color: #000;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 1px;
+    float: right;
+}
+.project_box {
+    clear: both;
+    width: 475px;
+}
